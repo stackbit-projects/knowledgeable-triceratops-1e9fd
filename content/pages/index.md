@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Hola mundo
-    subtitle: Optional hero section subtitle
+    subtitle: Todo bien!
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
